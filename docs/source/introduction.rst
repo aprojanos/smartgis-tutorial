@@ -3,7 +3,9 @@ Introduction
 
 WebGIS ...
 
-Introduction
-------------
+
+Main features
+-------------
+
 
 

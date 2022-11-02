@@ -13,7 +13,7 @@ Contents
     
     introduction
     viewer
-    digitizing
+    layer_editor
     mapadmin
     users
     processes
