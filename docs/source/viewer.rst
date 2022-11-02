@@ -6,7 +6,13 @@ Map viewer ...
 Project selection
 -----------------
 
-![project selection](images/SU-select-project.jpg "project selection")
+
+.. figure:: images/SU-select-project.jpg
+   :name: select_project
+   :align: center
+   :width: 30cm
+
+   Project selection screen
 
 
 Basemaps
