@@ -14,8 +14,9 @@ Contents
     introduction
     viewer
     digitizing
-        mapadmin
+    mapadmin
     users
+    processes
     api
 
 .. tip::

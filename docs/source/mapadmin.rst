@@ -8,3 +8,5 @@ Introduction ...
     datasources
     trajectories
     maps
+    lookups
+    searches
