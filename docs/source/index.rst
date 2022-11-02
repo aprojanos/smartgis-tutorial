@@ -15,6 +15,7 @@ Contents
 .. toctree::
 
    introduction
-   map viewer
-   layer editor
+   viewer
+   editor
+   admin
    api
