@@ -6,16 +6,18 @@ Welcome to SmartGIS documentation!
 
    This project is under active development.
    
-.. tip::
-   Este mar ne igyal kavet
-
 Contents
 --------
 
 .. toctree::
+    
+    introduction
+    usage
+    viewer
+    editor
+    admin
+    api
 
-   introduction
-   viewer
-   editor
-   admin
-   api
+.. tip::
+   Este mar ne igyal kavet
+
