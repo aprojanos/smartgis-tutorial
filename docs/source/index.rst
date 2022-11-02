@@ -12,10 +12,10 @@ Contents
 .. toctree::
     
     introduction
-    usage
     viewer
-    editor
-    admin
+    digitizing
+    mapadmin
+    users
     api
 
 .. tip::
