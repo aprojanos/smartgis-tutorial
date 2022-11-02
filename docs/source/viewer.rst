@@ -3,7 +3,20 @@ Viewer
 
 Map viewer ...
 
-Viewer
-------
+Project selection
+-----------------
 
-Lorem ipsum ...
+![project selection](images/SU-select-project.jpg "project selection")
+
+
+Basemaps
+--------
+
+Viewport
+--------
+
+
+Map legend
+----------
+
+
