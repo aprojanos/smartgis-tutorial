@@ -17,8 +17,7 @@ Contents
     mapadmin
     users
     processes
-    api
 
 .. tip::
-   Este mar ne igyal kavet
+   Este már ne igyál kávét
 

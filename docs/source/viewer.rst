@@ -1,4 +1,4 @@
-Viewer
+Map viewer
 =======
 
 Map viewer ...
