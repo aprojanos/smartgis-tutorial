@@ -3,9 +3,6 @@ Layer editor
 
 Introduction ... 
 
-Tools
-----------------
-
 .. toctree::
     attribute_table
     attribute_form
