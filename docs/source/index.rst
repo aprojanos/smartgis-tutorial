@@ -12,6 +12,7 @@ Contents
 .. toctree::
     
     introduction
+    main_screen
     viewer
     layer_editor
     mapadmin
