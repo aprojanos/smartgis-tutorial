@@ -13,7 +13,7 @@ Mandatory, important fields
 mandatory fields
 important fields
 autocomplete fields, 
-select from lookup tables (defined in administration section > ":ref:`lookups`")
+select from lookup tables (defined in administration section > :ref:`Lookup tables <lookups>`)
 
 Geolocation, automatic fields
 -----------------------------
