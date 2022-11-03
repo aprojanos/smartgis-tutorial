@@ -3,8 +3,7 @@ Map viewer
 
 Map viewer ...
 
-.. tip::
-https://docs.nextgis.com/docs_ngweb/source/webmaps_client.html
+.. tip:: https://docs.nextgis.com/docs_ngweb/source/webmaps_client.html
 
 Login
 -----
@@ -37,8 +36,7 @@ Basemaps
 Viewport
 --------
 
-.. tip::
-tool icons description
+.. tip:: tool icons description
 
 Map legend
 ----------
@@ -46,5 +44,4 @@ Map legend
 Export data
 -----------
 
-.. tip::
-needs permission!
+.. tip:: needs permission!
