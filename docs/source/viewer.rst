@@ -20,7 +20,8 @@ When configuring the application, it is possible to allow users to log in with a
 
 Working with projects
 ---------------------
-https://docs.nextgis.com/docs_collector/source/operations.html
+
+.. tip:: https://docs.nextgis.com/docs_collector/source/operations.html
 
 .. figure:: images/SU-select-project.jpg
    :name: select_project
