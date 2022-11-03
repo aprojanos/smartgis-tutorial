@@ -15,7 +15,7 @@ When configuring the application, it is possible to allow users to log in with a
 .. figure:: images/Login.png
    :name: login
    :align: center
-   :width: 15cm
+   :width: 8cm
 
    Login screen
 
