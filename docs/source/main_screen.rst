@@ -1,5 +1,5 @@
-Main screen
-===========
+Application interface
+=====================
 
 
 Map viewer

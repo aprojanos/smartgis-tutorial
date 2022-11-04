@@ -1,6 +1,8 @@
 Layer editor
 ===================
 
+.. _layer_editor::
+    
 Introduction ... 
 
 .. toctree::
