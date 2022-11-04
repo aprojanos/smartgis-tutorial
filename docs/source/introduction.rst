@@ -32,8 +32,8 @@ You can use SmartGIS online, where we create a copy of the application and host 
 It is also possible to install the complete system on the customer's server. In this case you must meet certain requirements:
 
 * linux 
-* docker installed > 19.0.3
-* docker-compose installed > 1.29.2
+* docker installed >= 19.0.3
+* docker-compose installed >= 1.29.2
 * ssh access and public ip during installation
 
 

@@ -19,6 +19,4 @@ Contents
     users
     processes
 
-.. tip::
-   Este már ne igyál kávét 5 utan
 
