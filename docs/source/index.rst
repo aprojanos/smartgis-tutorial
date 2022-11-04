@@ -10,7 +10,7 @@ Contents
 --------
 
 .. toctree::
-   :titlesonly:
+   :maxdepth: 1
     
     introduction
     main_screen
