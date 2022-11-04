@@ -1,7 +1,7 @@
 Layer editor
 ===================
 
-.. _layer_editor::
+.. _layer_editor:
     
 Introduction ... 
 

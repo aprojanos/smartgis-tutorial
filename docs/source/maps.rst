@@ -5,4 +5,6 @@ Maps ...
 
 
 
-.. _field_editor::
+.. _field_editor:
+Field editor
+------------
