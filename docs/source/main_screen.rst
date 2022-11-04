@@ -16,10 +16,9 @@ Toolbar
 Sidebar
 -------
 
-* map
-* settings
-* administration
-* about us - editable content
-* privacy policy - editable content, application can be configured to show cookie consent dialog (editable content)
-* terms of use - editable content
-* custom pages by request (app configuration)
+.. toctree::
+    viewer
+    settings
+    mapadmin
+    settings
+    static_pages
