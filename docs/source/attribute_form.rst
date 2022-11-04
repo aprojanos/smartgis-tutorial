@@ -6,6 +6,9 @@ Open form
 
 * by clicking on table row
 * by clicking on feature on the map
+* by clicking on form icon while digitization
+
+.. _attribute_form:
 
 Mandatory, important fields
 ---------------------------
