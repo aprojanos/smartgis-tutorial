@@ -25,6 +25,8 @@ Supported raster formats
 
 .. Note:: explain 'add to application's database', 'add to project'
 
+.. Tip:: Check datasource as Basemap
+
 Organize files into folders
 ---------------------------
 
