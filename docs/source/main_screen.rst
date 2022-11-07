@@ -20,5 +20,4 @@ Sidebar
     viewer
     settings
     mapadmin
-    settings
     static_pages
