@@ -25,10 +25,10 @@ The application also accepts point clouds in Potree format, in which case it is 
 
 Panoramic images
 ----------------
-In SmartGIS, each panorama image series must belong to a trajectory. The images of the trajectory should also be packed in a .zip .rar or .7z archive. Such a package should also include a .txt file containing a list of the images. This will include the position of each image and other information. 
+In SmartGIS, each panorama image series must belong to a trajectory. The images of the trajectory should also be packed in a .zip .rar or .7z archive. Such a package should also include a metadata .txt file containing a list of the images. This will include the position of each image and other information. 
 
-.. Note:: This is a tab delimited CSV file with column names in the header which should be:
-    GPS Time\\tImage Filename\\tEast\\tNorth\\tHeight\\tOmega\\tPhi\\tKappa\
+.. Note:: Panoramic metadata is a tab delimited CSV file with column names in the header which should be:
+GPS Time \\t Image Filename \\t East \\t North \\t Height \\t Omega \\t Phi \\t Kappa
 
 
 
