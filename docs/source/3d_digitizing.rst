@@ -1,6 +1,7 @@
 3D digitizing tools
 ===================
 
+.. _3d_digitizing:
 
 .. tip:: use document **User manual - Point cloud**
 
