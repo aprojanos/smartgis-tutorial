@@ -10,7 +10,9 @@ Contents
 --------
 
 .. toctree::
-    
+   :numbered:
+   :maxdepth: 2    
+
     introduction
     main_screen
     viewer
