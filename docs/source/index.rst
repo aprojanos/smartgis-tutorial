@@ -11,8 +11,9 @@ Contents
 
 .. toctree::
    :numbered:
+   :hidden:
    :maxdepth: 2    
-
+   
     introduction
     main_screen
     viewer
