@@ -27,7 +27,7 @@ Panoramic images
 ----------------
 In SmartGIS, each panorama image series must belong to a trajectory. The images of the trajectory should also be packed in a .zip .rar or .7z archive. Such a package should also include a metadata .txt file containing a list of the images. This will include the position of each image and other information. 
 
-.. Note:: Panoramic metadata is a tab delimited CSV file with column names in the header which should be:
+.. note:: Panoramic metadata is a tab delimited CSV file with column names in the header which should be:
     GPS Time   Image Filename   East   North   Height   Omega   Phi   Kappa
 
 

@@ -21,11 +21,13 @@ Supported raster formats
 * TIFF
 * JPEG
 
-.. Tip:: Folders with raster files can be uploaded via FTP service and imported as a datasource
+.. tip:: Folders with raster files can be uploaded via FTP service and imported as a datasource
 
-.. Note:: explain 'add to application's database', 'add to project'
+.. note:: 
+    explain 'add to application's database', 'add to project'
 
-.. Tip:: Check datasource as Basemap
+.. tip:: 
+    Check datasource as Basemap
 
 Organize files into folders
 ---------------------------
