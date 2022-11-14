@@ -31,7 +31,7 @@ Work online or install the platform on-premises
 You can use SmartGIS online, where we create a copy of the application and host it on a cloud server. 
 It is also possible to install the complete system on the customer's server. In this case you must meet certain requirements:
 
-* linux 
+* linux operating system
 * docker installed >= 19.0.3
 * docker-compose installed >= 1.29.2
 * ssh access and public ip during installation

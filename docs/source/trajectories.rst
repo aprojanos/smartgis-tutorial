@@ -1,4 +1,4 @@
-Mobila mapping data
+Mobile mapping data
 ===================
 
 
@@ -34,6 +34,7 @@ In SmartGIS, each panorama image series must belong to a trajectory. The images 
 
 Create a trajectory
 --------------------
+
 
 Organize trajectories into folders
 ----------------------------------
