@@ -17,13 +17,20 @@ Actions:
 * Drawing and object is done by activating the tool and clicking on the map.
 * To finishing drawing the new object simply double click on the object's last point on the map.
 
-.. tip:: For example a line object contains of 3 points, draw the first and sercond point and when drawing the third point double click to finish the object
+.. tip:: For example a line object contains of 3 points, draw the first and sercond point and when drawing the third point double click to finish the object.
 
 Delete feature
 --------------
 
 Undo / redo
 -----------
+
+Undo or redo tool is active when add or edit tool is selected.
+
+Actions:
+
+* Undo: Undo an action.
+* Redo: Redo an action.
 
 Snapping
 ---------
