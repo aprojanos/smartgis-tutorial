@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Manufaktura Ltd
+# This file is distributed under the same license as the SmartGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartGIS 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-16 09:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+# cce4bd364e58401a87ec8b35e8abe8f9
+#: ../../viewer.rst:2
+msgid "Map viewer"
+msgstr ""
+
+# 0d5e2434d8cb49e2844679283b60a762
+#: ../../viewer.rst:4
+msgid "Map viewer ..."
+msgstr ""
+
+# d8c8c0fa692a441abc3ded568b6b7587
+#: ../../viewer.rst:6
+msgid "https://docs.nextgis.com/docs_ngweb/source/webmaps_client.html"
+msgstr ""
+
+# 351118f57ba541f0ac294bd7b5bcfd9d
+#: ../../viewer.rst:9
+msgid "Login"
+msgstr ""
+
+# 1208e51f863747b99497b32f47a8d080
+#: ../../viewer.rst:11
+msgid ""
+"Users can log in by entering their email address and password. Users are "
+"registered on the administration page by an administrator. When "
+"configuring the application, it is possible to allow users to log in with"
+" a Google or Facebook account. This should be used when setting up WebGIS"
+" portals where external users can access certain services, e.g. reporting"
+" bugs, posting comments, etc."
+msgstr ""
+
+# b733b5437c7144f689fa400712b7db01
+#: ../../viewer.rst:19
+msgid "Login screen"
+msgstr ""
+
+# 421c4d09672140b294764daabf737a88
+#: ../../viewer.rst:22
+msgid "Working with projects"
+msgstr ""
+
+# 112c453d9a524683addec5405e898526
+#: ../../viewer.rst:24
+msgid "https://docs.nextgis.com/docs_collector/source/operations.html"
+msgstr ""
+
+# 4fbe9cc420f847f1a354a8fab6994623
+#: ../../viewer.rst:31
+msgid "Project selection screen"
+msgstr ""
+
+# 13885a06af4c437a9ef78978e693bc26
+#: ../../viewer.rst:35
+msgid "Basemaps"
+msgstr ""
+
+# 28d1b6e0b68645c0bd1b4dd0458eed64
+#: ../../viewer.rst:38
+msgid "Viewport"
+msgstr ""
+
+# d11e3db888144a278d69ec2e632dd34e
+#: ../../viewer.rst:40
+msgid "tool icons description"
+msgstr ""
+
+# e7156ec0b2be4410966ab529a49cc47e
+#: ../../viewer.rst:43
+msgid "Map legend"
+msgstr ""
+
+# e8251ce1f88041f88c0fa0859ba112e1
+#: ../../viewer.rst:46
+msgid "Export data"
+msgstr ""
+
+# c73335551877421ca3abeda175fd4aee
+#: ../../viewer.rst:48
+msgid "needs permission!"
+msgstr ""
+

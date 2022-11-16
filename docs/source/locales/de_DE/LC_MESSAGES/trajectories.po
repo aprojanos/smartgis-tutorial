@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Manufaktura Ltd
+# This file is distributed under the same license as the SmartGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartGIS 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-16 09:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+# bd4e8b52958c495e9218e599026ccb14
+#: ../../trajectories.rst:2
+msgid "Mobile mapping data"
+msgstr ""
+
+# 475e3d2d188042e38cf81d3a5bbc9256
+#: ../../trajectories.rst:5
+msgid ""
+"￼ Mobile Mapping is the process of collecting geospatial data from mobile"
+" vehicles such as cars, drones, boats, trains or aeroplanes. In SmartGIS,"
+" we can use two types of data derived from Mobile Mapping: Point clouds "
+"and panoramic images."
+msgstr ""
+
+# 5f8c381022af4140b6cd08d368e6495a
+#: ../../trajectories.rst:9
+msgid ""
+"A point cloud is a set of points in space that represent the surface of "
+"an object. Two common methods are used to generate point clouds: LiDAR "
+"and photogrammetry. **LiDAR** s a technology that uses lasers in order to"
+" measure distances from the sensor on the LiDAR device to objects in the "
+"environment. **Photgrammetry** uses photographs taken from various angles"
+" of an object in order to calculate its dimensions and generate a 3D "
+"model by using triangulation. These point clouds can be used in SmartGIS "
+"for :ref:`3D digitization <3d_digitizing>` of map objects."
+msgstr ""
+
+# c8e9a58a9c14451793d4c489dcc9b349
+#: ../../trajectories.rst:15
+msgid ""
+"A panoramic photography is essentially a photo with a wide format, "
+"whether that's vertical or horizontal. Either way, they are taken by "
+"taking a series of photos which overlap to create one single image. "
+"Mobile mapping data is always uploaded via FTP."
+msgstr ""
+
+# 829ef699adfc42309b0d6d4fd97e4e52
+#: ../../trajectories.rst:19
+msgid "Trajectories"
+msgstr ""
+
+# 8bbe4d5671694cc0935a80e6ea19e9cc
+#: ../../trajectories.rst:21
+msgid ""
+"The common file format for point clouds is LAS (or comressed LAZ). LAS "
+"files collected in a bundle are called **trajectories**. Such "
+"trajectories can be imported into the application packed in **.zip**, "
+"**.rar** or **.7z** format. In the process, the files are unpacked and "
+"prepared for web display, which requires the **Potree** format."
+msgstr ""
+
+# 46da847a47cf480eae9e6b2160ceb915
+#: ../../trajectories.rst:24
+msgid ""
+"The application also accepts point clouds in Potree format, in which case"
+" it is only necessary to unpack the archive."
+msgstr ""
+
+# e32dc8f4e49440abb56175ddb2d8d797
+#: ../../trajectories.rst:27
+msgid "Panoramic images"
+msgstr ""
+
+# 090606dff7ad426cb6e2a2bfce37c08c
+#: ../../trajectories.rst:28
+msgid ""
+"In SmartGIS, each panorama image series must belong to a trajectory. The "
+"images of the trajectory should also be packed in a .zip .rar or .7z "
+"archive. Such a package should also include a metadata .txt file "
+"containing a list of the images. This will include the position of each "
+"image and other information."
+msgstr ""
+
+# ea2170303e1846f8a77972a04dd40228
+#: ../../trajectories.rst:30
+msgid ""
+"Panoramic metadata is a tab delimited CSV file with column names in the "
+"header which should be: GPS Time   Image Filename   East   North   Height"
+"   Omega   Phi   Kappa"
+msgstr ""
+
+# 07d42f8be4eb481585b62bb9525422f6
+#: ../../trajectories.rst:36
+msgid "Create a trajectory"
+msgstr ""
+
+# 4b326cef0c364e7dbc4badadec0e9a4b
+#: ../../trajectories.rst:40
+msgid "Organize trajectories into folders"
+msgstr ""
+

@@ -1,0 +1,24 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Manufaktura Ltd
+# This file is distributed under the same license as the SmartGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartGIS 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-16 09:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+# 59cf35a9a0e54d4e81ec6914c72737c0
+#: ../../processes.rst:2
+msgid "Background processes"
+msgstr ""
+

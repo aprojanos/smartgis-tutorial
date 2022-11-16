@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Manufaktura Ltd
+# This file is distributed under the same license as the SmartGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartGIS 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-16 09:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+# a0a7672cf5544502ab466b106071dc1d
+#: ../../map_list.rst:2
+msgid "Project list"
+msgstr ""
+
+# 7170dbebb94e41f689e35c4f27c0d69b
+#: ../../map_list.rst:5
+msgid "Compact view"
+msgstr ""
+
+# d75138612df842d39c515593ff1a36d7
+#: ../../map_list.rst:8
+msgid "Preview image"
+msgstr ""
+
+# ccb8186d2cb444c28af1203714df3de2
+#: ../../map_list.rst:11
+msgid "Base maps"
+msgstr ""
+
+# 1f164b083ea14db08d6ab7e9d203a49c
+#: ../../map_list.rst:14
+msgid "Reorder"
+msgstr ""
+

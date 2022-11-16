@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Manufaktura Ltd
+# This file is distributed under the same license as the SmartGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartGIS 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-16 09:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+# c95a9c577cba4b9cac9223889fe82eb5
+#: ../../main_screen.rst:2
+msgid "Application interface"
+msgstr ""
+
+# 90298d2e69504428aa0b75a423404b7f
+#: ../../main_screen.rst:6
+msgid "Map viewer"
+msgstr ""
+
+# c21727dcf916469e9c96315a797aa376
+#: ../../main_screen.rst:9
+msgid "Toolbar"
+msgstr ""
+
+# f6dec0883ede420fb14fae25afa69f77
+#: ../../main_screen.rst:11
+msgid "open sidebar"
+msgstr ""
+
+# f1db26e9cb9342a3841b3e1cf8df2744
+#: ../../main_screen.rst:12
+msgid "open map legend"
+msgstr ""
+
+# 9e24b986470447a6826e08dadb89419c
+#: ../../main_screen.rst:13
+msgid "project selector"
+msgstr ""
+
+# f6147c96e46443f7b081f43a0223a5a6
+#: ../../main_screen.rst:14
+msgid "login / user account"
+msgstr ""
+
+# 9ff3bb504bab408bb54e882c24566e44
+#: ../../main_screen.rst:17
+msgid "Sidebar"
+msgstr ""
+

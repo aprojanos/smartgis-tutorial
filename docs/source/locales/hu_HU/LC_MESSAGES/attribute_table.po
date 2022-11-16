@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Manufaktura Ltd
+# This file is distributed under the same license as the SmartGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartGIS 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-16 09:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+# b5ac7ea7530f44a8b3ae52aebc4d5b2c
+#: ../../attribute_table.rst:2
+msgid "Attribute table"
+msgstr ""
+
+# f6c0bb21716b443b8c1bcd33b00e69e6
+#: ../../attribute_table.rst:5
+msgid "Open table for editable forms"
+msgstr ""
+
+# 02246db75b964778bd0b4a18b9f6b4de
+#: ../../attribute_table.rst:7
+msgid "click on map legend"
+msgstr ""
+
+# 7a183615169b4e4fbbd26da3b6c1f80e
+#: ../../attribute_table.rst:8
+msgid "paging"
+msgstr ""
+
+# 8f9fa65817544727ba99a2a6ab896a6a
+#: ../../attribute_table.rst:9
+msgid "multiple tables"
+msgstr ""
+
+# 64743b19c4b141d78cf95753747bdc4f
+#: ../../attribute_table.rst:10
+msgid "compact view"
+msgstr ""
+
+# d25380fe7035480e8b8cc9e3480c64b3
+#: ../../attribute_table.rst:11
+msgid "minimize table"
+msgstr ""
+
+# f825e0e0c44b4cb4b86b3c1a2c63b9c3
+#: ../../attribute_table.rst:14
+msgid "Filter by columns"
+msgstr ""
+
+# 2707779047dc4b6b8147850e2ae39566
+#: ../../attribute_table.rst:17
+msgid "Filter by polygon"
+msgstr ""
+
+# 08e4bb572e784e248145917e160e119b
+#: ../../attribute_table.rst:20
+msgid "Visible columns"
+msgstr ""
+
+# 6956b24ba38747ea9edb5df12d4e2280
+#: ../../attribute_table.rst:23
+msgid "Export data"
+msgstr ""
+
+# f31c4595323a448fb93c6bbfeaf902dc
+#: ../../attribute_table.rst:24
+msgid "needs permission!"
+msgstr ""
+
