@@ -37,3 +37,4 @@ epub_show_urls = 'footnote'
 gettext_uuid = True
 gettext_compact = False
 master_doc = 'index'
+latext_engine = 'pdflatex'

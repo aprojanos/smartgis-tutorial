@@ -1,0 +1,19 @@
+sphinx-build -b latex . _build/latex/en
+sphinx-build -b latex -D language=sr_RS . _build/latex/rs
+sphinx-build -b latex -D language=sr_Latn_RS . _build/latex/la
+sphinx-build -b latex -D language=hu_HU . _build/latex/hu
+sphinx-build -b latex -D language=de_DE . _build/latex/de
+
+
+make -C _build/latex/en
+make -C _build/latex/rs
+make -C _build/latex/la
+make -C _build/latex/hu
+make -C _build/latex/de
+
+mkdir _build/pdf
+cp _build/latex/en/SmartGIS.pdf _build/pdf/Smartgis_en.pdf
+cp _build/latex/rs/SmartGIS.pdf _build/pdf/Smartgis_rs.pdf
+cp _build/latex/la/SmartGIS.pdf _build/pdf/Smartgis_la.pdf
+cp _build/latex/hu/SmartGIS.pdf _build/pdf/Smartgis_hu.pdf
+cp _build/latex/de/SmartGIS.pdf _build/pdf/Smartgis_de.pdf
