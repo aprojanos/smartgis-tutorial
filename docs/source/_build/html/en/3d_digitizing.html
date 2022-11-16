@@ -99,18 +99,48 @@
 </div>
 <div class="section" id="clipbox">
 <h2>3.4.1. Clipbox<a class="headerlink" href="#clipbox" title="Permalink to this headline">¶</a></h2>
+<p>Clipbox tool is used to clip a selected part of the point cloud map. When the clipbox is set, only the clipped part is visible, other parts of the point cloud map will be hidde.</p>
 </div>
 <div class="section" id="add-new-feature">
 <h2>3.4.2. Add new feature<a class="headerlink" href="#add-new-feature" title="Permalink to this headline">¶</a></h2>
+<p>When the add tool is active, drawing new object is possible on the point cloud map, when a layer is set as active layer. By default the add tool can be activated with the button “e”.</p>
+<p>The new object’s type, depends on the active layer’s type. It can be point, line or poligon.</p>
 </div>
 <div class="section" id="edit-existing-feature">
 <h2>3.4.3. Edit existing feature<a class="headerlink" href="#edit-existing-feature" title="Permalink to this headline">¶</a></h2>
+<p>When the edit tool is active, objects on the point cloud map are selectable. Selected objects can be edited (add new points, remove, change parameters on form, etc.). By default the edit tool can be activated with button “r”. Edited points can be moved on selected axis. (button “x”)</p>
+<p>Actions:</p>
+<ul class="simple">
+<li>Left click on object (single click): First click selects the object. (point, line, polygon) Other objects cant be selected until the current object is deselected.</li>
+<li>When the object is selected:</li>
+<li>Position of the edited object’s point can be changed along x, y, z axes.</li>
+<li>Add new point to the end of the object. (ctrl + click on line of the object)</li>
+<li>Add new point on the line of the object. (between existing points) (shift</li>
+<li>click on the line of the object)</li>
+<li>Remove object points: Remove points of the selected object. (buttons “delete” or “d”)</li>
+<li>Active object edit can be deactivated with button “esc”.</li>
+<li>Layer selection: Selected layer (active layer):</li>
+<li>When another layer is selected, active drawn object can be saved, removed, or continued.</li>
+<li>Save parameters: Parameters can be saved through “open form” tool or when the “space” button is pressed.</li>
+<li>Shortcuts: More information about shortcuts under section “Shortcuts”.</li>
+</ul>
 </div>
 <div class="section" id="undo-redo">
 <h2>3.4.4. Undo / redo<a class="headerlink" href="#undo-redo" title="Permalink to this headline">¶</a></h2>
+<p>Undo or redo tool is active when add or edit tool is selected.</p>
+<p>Actions:</p>
+<ul class="simple">
+<li>Undo: Undo an action.</li>
+<li>Redo: Redo an action.</li>
+</ul>
 </div>
 <div class="section" id="delete-feature">
 <h2>3.4.5. Delete feature<a class="headerlink" href="#delete-feature" title="Permalink to this headline">¶</a></h2>
+<p>Delete tool is active when an object is selected in the point cloud map.</p>
+<p>Actions:</p>
+<ul class="simple">
+<li>Remove object: Remove selected object.</li>
+</ul>
 </div>
 <div class="section" id="copy-paste-feature">
 <h2>3.4.6. Copy / paste feature<a class="headerlink" href="#copy-paste-feature" title="Permalink to this headline">¶</a></h2>
@@ -120,14 +150,25 @@
 </div>
 <div class="section" id="snapping">
 <h2>3.4.8. Snapping<a class="headerlink" href="#snapping" title="Permalink to this headline">¶</a></h2>
+<p>Snap to vertex tool can be activated or deactivated. When drawing an object, and the pointer is near to another object, it will jump or snap to the other object’s point. Snap to vertex can be used when an object is edited or a new is created.</p>
+<p>Snap tool types:</p>
 <ul class="simple">
-<li>line</li>
-<li>vertex</li>
-<li>line + vertex</li>
+<li>Line: Pointer snaps to the object’s line.</li>
+<li>Vertex: Pointer snaps to the object’s point.</li>
+<li>Line and vertex: Pointer snaps to the object’s lines and points.</li>
 </ul>
 </div>
 <div class="section" id="open-attribute-form">
 <h2>3.4.9. Open attribute form<a class="headerlink" href="#open-attribute-form" title="Permalink to this headline">¶</a></h2>
+<p>Form can be opened with open object’s form tool. When the form is opened it is filled with fields where the object’s parameter can be changed. (by default form can be opened with “space” button)</p>
+<p>Actions on form:</p>
+<ul class="simple">
+<li>Data: Fields where the object parameters can be set or changed.</li>
+<li>Save: Save object’s parameters.</li>
+<li>Cancel: Cancel and close object popup window.</li>
+<li>Remove: Remove selected object.</li>
+<li>Open point cloud: Open “Point cloud” section.</li>
+</ul>
 <p><a class="reference internal" href="attribute_form.html#id1"><span class="std std-ref">Attribute form</span></a></p>
 </div>
 <div class="section" id="shortcuts">

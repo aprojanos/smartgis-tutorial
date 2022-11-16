@@ -91,9 +91,16 @@
 <h1>3.3. 2D digitizing tools<a class="headerlink" href="#d-digitizing-tools" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="select-active-layer-from-map-legend">
 <h2>3.3.1. Select active layer from map_legend<a class="headerlink" href="#select-active-layer-from-map-legend" title="Permalink to this headline">¶</a></h2>
+<p>Layers are represented in layer groups. A layer can be set as active layer, when a layer group is opened an a layer is selected from the list. (clicked on the layer’s name) Toolbar will apear inside the map view’s upper right corner alog with active layer’s name.</p>
 </div>
 <div class="section" id="add-new-edit-existing-feature">
 <h2>3.3.2. Add new / edit existing feature<a class="headerlink" href="#add-new-edit-existing-feature" title="Permalink to this headline">¶</a></h2>
+<p>Adding or editing object’s are possible only, when the active layer is set. To add an object the „+” button must be selected from the toolbar.</p>
+<p>Actions:</p>
+<ul class="simple">
+<li>Drawing and object is done by activating the tool and clicking on the map.</li>
+<li>To finishing drawing the new object simply double click on the object’s last point on the map. (for example a line object contains of 3 points, draw the first and sercond point and when drawing the third point double click to finish the object)</li>
+</ul>
 </div>
 <div class="section" id="delete-feature">
 <h2>3.3.3. Delete feature<a class="headerlink" href="#delete-feature" title="Permalink to this headline">¶</a></h2>
@@ -103,10 +110,12 @@
 </div>
 <div class="section" id="snapping">
 <h2>3.3.5. Snapping<a class="headerlink" href="#snapping" title="Permalink to this headline">¶</a></h2>
+<p>Snap to vertex tool can be activated or deactivated. When drawing an object, and the pointer is near to another object, it will jump or snap to the other object’s point. Snap to vertex can be used when an object is edited or a new is created.</p>
+<p>Snap tool types:</p>
 <ul class="simple">
-<li>line</li>
-<li>vertex</li>
-<li>line + vertex</li>
+<li>Line: Pointer snaps to the object’s line.</li>
+<li>Vertex: Pointer snaps to the object’s point.</li>
+<li>Line and vertex: Pointer snaps to the object’s lines and points.</li>
 </ul>
 </div>
 <div class="section" id="open-attribute-form">
