@@ -19,8 +19,8 @@ msgstr ""
 
 # ea6a40ab4749423491a7fe7e44464226
 #: ../../index.rst:2
-msgid "Welcome to SmartGIS documentation!"
-msgstr "SmartGIS dokumentacija!"
+msgid "SmartGIS documentation"
+msgstr "SmartGIS dokumentacija"
 
 # 2b02f31c0ab74fb58ac946e77bac4fe3
 #: ../../index.rst:7
