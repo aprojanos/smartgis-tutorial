@@ -19,13 +19,13 @@ msgstr ""
 
 # ea6a40ab4749423491a7fe7e44464226
 #: ../../index.rst:2
-msgid "Добро дошли у SmartGIS документацију!"
+msgid "SmartGIS документација!"
 msgstr ""
 
 # 2b02f31c0ab74fb58ac946e77bac4fe3
 #: ../../index.rst:7
 msgid "This project is under active development."
-msgstr "Овај пројекат се активо развија"
+msgstr "Овај пројекат се активо развија."
 
 # 46fc1b38c4734cfa911baf1b8b40f3ce
 #: ../../index.rst:10
