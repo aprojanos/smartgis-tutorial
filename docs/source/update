@@ -1,0 +1,1 @@
+sphinx-intl update -p _build/gettext -l sr_RS -l sr_Latn_RS -l hu_HU -l de_DE
