@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Manufaktura Ltd
+# This file is distributed under the same license as the SmartGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartGIS 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-16 09:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+# c20e980866ae4194bb29899c0b870b3e
+#: ../../usage.rst:2
+msgid "Usage"
+msgstr ""
+
+# 24c0c8c5ffb64cd08368809c76776a02
+#: ../../usage.rst:7
+msgid "Installation"
+msgstr ""
+
+# c30c7e30f48d4a2982fd431278f2893f
+#: ../../usage.rst:9
+msgid "To use Lumache, first install it using pip:"
+msgstr ""
+
+# 4575318840344c41a96d0cff11b12290
+#: ../../usage.rst:16
+msgid "Creating recipes"
+msgstr ""
+
+# d841efa286e84143a4b94901402824f0
+#: ../../usage.rst:18
+msgid ""
+"To retrieve a list of random ingredients, you can use the "
+"``lumache.get_random_ingredients()`` function:"
+msgstr ""
+
+# af048a2a3515420793d5561bed7e00b8
+#: ../../usage.rst:23
+msgid ""
+"The ``kind`` parameter should be either ``\"meat\"``, ``\"fish\"``, or "
+"``\"veggies\"``. Otherwise, :py:func:`lumache.get_random_ingredients` "
+"will raise an exception."
+msgstr ""
+
+# 4fc7f6a3b9d941fe8459c2dcd0238bb8
+#: ../../usage.rst:29
+msgid "For example:"
+msgstr ""
+

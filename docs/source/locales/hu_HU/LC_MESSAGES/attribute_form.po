@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Manufaktura Ltd
+# This file is distributed under the same license as the SmartGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartGIS 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-16 09:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+# a9549454bb764ab5a527c5f9ce7a78c8
+#: ../../attribute_form.rst:2
+msgid "Attribute form"
+msgstr ""
+
+# 20f8c95e59e94545a7aa605e29cc1200
+#: ../../attribute_form.rst:5
+msgid "Open form"
+msgstr ""
+
+# cf9107a415914ffd953ad1d90d089f90
+#: ../../attribute_form.rst:7
+msgid "by clicking on table row"
+msgstr ""
+
+# 95d41ab99ce74aa687db352716ba207f
+#: ../../attribute_form.rst:8
+msgid "by clicking on feature on the map"
+msgstr ""
+
+# 5066797f78af47eca00817d73c4fbcda
+#: ../../attribute_form.rst:9
+msgid "by clicking on form icon while digitization"
+msgstr ""
+
+# b17d9de2a779492ca67f71eb7428aeda
+#: ../../attribute_form.rst:14
+msgid "Mandatory, important fields"
+msgstr ""
+
+# 7ecbbed9a1df4072a227009f1d49ce90
+#: ../../attribute_form.rst:16
+msgid ""
+"mandatory fields important fields autocomplete fields, select from lookup"
+" tables (defined in administration section > :ref:`Lookup tables "
+"<lookups>`)"
+msgstr ""
+
+# aac8440c70084d74999ef4cbe143e722
+#: ../../attribute_form.rst:22
+msgid "Geolocation, automatic fields"
+msgstr ""
+
+# 987d2152c54048b1b0fae6ea13dc206b
+#: ../../attribute_form.rst:26
+msgid "Attach images"
+msgstr ""
+
+# 2e55a95c760a4406beccdbb5874ada7e
+#: ../../attribute_form.rst:27
+msgid "upload from file system / camera"
+msgstr ""
+
+# 47d3a5d403ec4b1e8b0f762dd1382857
+#: ../../attribute_form.rst:28
+msgid "crop from panoramic images nearby if available"
+msgstr ""
+
+# db2aa3b4e99b4c1ea0fbd6ce2784e80d
+#: ../../attribute_form.rst:32
+msgid "Attach documents"
+msgstr ""
+
+# 7d4e1a64ed8f4c79bba993810ae7e717
+#: ../../attribute_form.rst:34
+msgid "Save - Save and close"
+msgstr ""
+

@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Manufaktura Ltd
+# This file is distributed under the same license as the SmartGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartGIS 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-16 09:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+# b5cbd7a3533f48a4bef71eb38716e9f6
+#: ../../map_folders.rst:2
+msgid "Folders"
+msgstr ""
+
+# 281810ed4e8047f48de1514212125a85
+#: ../../map_folders.rst:5
+msgid "Create folders"
+msgstr ""
+
+# 00a252f7f24b4d748e2fe988f11358a5
+#: ../../map_folders.rst:8
+msgid "Reorder"
+msgstr ""
+
+# ee039f32b3a048bfacd7a1f9a782447d
+#: ../../map_folders.rst:11
+msgid "Copy / move layers to another folder / project"
+msgstr ""
+
+# d48be53e96214f70924ab49b1086e543
+#: ../../map_folders.rst:14
+msgid "Layer caching"
+msgstr ""
+
+# 34be0de9316245afa5ffafc6012f9705
+#: ../../map_folders.rst:17
+msgid "Multi select mode"
+msgstr ""
+
