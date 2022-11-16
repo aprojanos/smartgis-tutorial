@@ -1,6 +1,6 @@
 sphinx-build -b latex . _build/latex/en
 sphinx-build -b latex -D language=sr_RS . _build/latex/rs
-sphinx-build -b latex -D language=sr_Latn_RS . _build/latex/la
+sphinx-build -b latex -D language=sr@latin . _build/latex/la
 sphinx-build -b latex -D language=hu_HU . _build/latex/hu
 sphinx-build -b latex -D language=de_DE . _build/latex/de
 

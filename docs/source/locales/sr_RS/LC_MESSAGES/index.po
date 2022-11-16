@@ -19,6 +19,7 @@ msgstr ""
 
 # ea6a40ab4749423491a7fe7e44464226
 #: ../../index.rst:2
+#, fuzzy
 msgid "SmartGIS documentation"
 msgstr "SmartGIS документација"
 
@@ -31,8 +32,4 @@ msgstr "Овај пројекат се активо развија."
 #: ../../index.rst:10
 msgid "Contents"
 msgstr "Садржај"
-
-# ea6a40ab4749423491a7fe7e44464226
-#~ msgid "SmartGIS документација"
-#~ msgstr ""
 
