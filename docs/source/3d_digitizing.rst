@@ -14,8 +14,10 @@ only the clipped part is visible, other parts of the point cloud map will be hid
 Add new feature
 ---------------
 
-When the add tool is active drawing new object is possible on the selected active
-layer. By default the add tool can be activated with the button "e".
+When the add tool is active, drawing new object is possible on the point cloud map, when a
+layer is set as active layer. By default the add tool can be activated with the button "e".
+
+The new object's type, depends on the active layer's type. It can be point, line or poligon.
 
 Edit existing feature
 ---------------------
@@ -49,8 +51,8 @@ Undo / redo
 -----------
 
 Undo or redo tool is active when add or edit tool is selected.
-* Undo: Undo action.
-* Redo: Redo action.
+* Undo: Undo an action.
+* Redo: Redo an action.
 
 Delete feature
 --------------
@@ -71,9 +73,10 @@ Snap to vertex tool can be activated or deactivated. When drawing an object, and
 the pointer is near to another object, it will jump or snap to the other object's
 point. Snap to vertex can be used when an object is edited or a new is created.
 
-* line
-* vertex
-* line + vertex
+Snap tool types:
+* Line: Pointer snaps to the object's line.
+* Vertex: Pointer snaps to the object's point.
+* Line and vertex: Pointer snaps to the object's lines and points.
 
 Open attribute form
 -------------------
