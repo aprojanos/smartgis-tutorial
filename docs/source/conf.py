@@ -30,6 +30,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_show_sourcelink = False
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
@@ -37,3 +38,4 @@ epub_show_urls = 'footnote'
 gettext_uuid = True
 gettext_compact = False
 master_doc = 'index'
+latext_engine = 'pdflatex'

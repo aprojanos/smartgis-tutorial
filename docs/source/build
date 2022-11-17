@@ -1,5 +1,1 @@
 sphinx-build -b html . _build/html/en
-sphinx-build -b html -D language=sr_RS . _build/html/rs
-sphinx-build -b html -D language=sr_Latn_RS . _build/html/la
-sphinx-build -b html -D language=hu_HU . _build/html/hu
-sphinx-build -b html -D language=de_DE . _build/html/de
