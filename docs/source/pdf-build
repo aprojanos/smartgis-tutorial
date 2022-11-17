@@ -12,8 +12,8 @@ make -C _build/latex/hu
 make -C _build/latex/de
 
 mkdir _build/pdf
-cp _build/latex/en/SmartGIS.pdf _build/pdf/Smartgis_en.pdf
-cp _build/latex/rs/SmartGIS.pdf _build/pdf/Smartgis_rs.pdf
-cp _build/latex/la/SmartGIS.pdf _build/pdf/Smartgis_la.pdf
-cp _build/latex/hu/SmartGIS.pdf _build/pdf/Smartgis_hu.pdf
-cp _build/latex/de/SmartGIS.pdf _build/pdf/Smartgis_de.pdf
+cp _build/latex/en/SmartGIS.pdf _build/pdf/SmartGIS.pdf
+cp _build/latex/rs/SmartGIS.pdf _build/pdf/SmartGIS_rs.pdf
+cp _build/latex/la/SmartGIS.pdf _build/pdf/SmartGIS_la.pdf
+cp _build/latex/hu/SmartGIS.pdf _build/pdf/SmartGIS_hu.pdf
+cp _build/latex/de/SmartGIS.pdf _build/pdf/SmartGIS_de.pdf
