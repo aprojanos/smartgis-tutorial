@@ -8,6 +8,9 @@
 3D digitalizing tools are used to create precisely defined objects on the point cloud map, by creating relations between the cloud's points.
 
 .. figure:: images/3d_digitalization.png
+    :name: login
+    :align: center
+    :width: 10cm
 
 .. note:: Digitalization tools that are for creating or editing features are available when the active layer is set.
 
