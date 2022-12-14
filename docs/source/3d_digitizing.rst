@@ -8,25 +8,36 @@
 3D digitalizing tools are used to create precisely defined objects on the point cloud map, by creating relations between the cloud's points.
 
 .. figure:: images/3d_digitalization.png
-    :name: login
+    :name: 3d digitalization
     :align: center
     :width: 10cm
+
 
 .. note:: Digitalization tools that are for creating or editing features are available when the active layer is set.
 
 View modes
 ----------
 
-There are 4 map view modes and 6 camera view modes available.
+There are 4 map view modes and 6 camera view modes.
+
+.. figure:: images/3d_digitalization_viewmodes.png
+    :name: viewmodes
+    :align: center
+
 
 Map view modes:
 
-* Bird eye map view: User's point of view is set to free, camera can be moved, rotated zoomed freely on the point cloud map.
+* Bird eye view: User's point of view is set to free, camera can be moved, rotated zoomed freely on the point cloud map.
 * Panorama spherical view: User's point of view is placed to the nearest panorama sphere. A panorma image is displayed, the camera can be rotated freely, zoom is limited.
 * Point cloud spherical view: User's point of view is placed to the nearest panorama sphere, only point cloud points are displayed. Camera can be rotated freely, zoom is limited.
 * Combined spherical view: User's point of view is placed to the nearest panorama sphere, combined view is used with point clud and panorama image. Camera can be rotated freely, zoom is limited.
 
 User view of the point cloud map is rotated to its predifined views:
+
+.. figure:: images/3d_digitalization_cameraviews.png
+    :name: cameraviews
+    :align: center
+
 
 * Left side view
 * Right side view
@@ -40,13 +51,18 @@ Settings
 
 Settings of the point cloud map can be set.
 
+.. figure:: images/3d_digitalization_settings.png
+    :name: settings
+    :align: center
+
+
 Actions:
 
 * Panorama spheres: Show or hides the panorama spheres on the point cloud map.
-* Point cloud map coloring: Change the coloring of the point cloud map.
 * Opacity: Changes the opacity of the point cloud points.
 * Size of points: Changes the size of points on the point cloud map.
-* Number of points: Changes the number of rendered points on the point cloud map.
+* Point budget [Million]: Changes the number of rendered points on the point cloud map.
+* Colored points clouds (material): Change the coloring of the point cloud map.
 * Brightness: Changes the brightness of the points on the point cloud map.
 * Contrast: Changes the contrast of the points on the point cloud map.
 * Gamma: Changes the gamma of the points on the point cloud map.
@@ -56,6 +72,11 @@ Measurement tools
 
 Measurement tools are used to measure lenght, distance, height, area, angle on the point cloud map. Measurement is done between point, (minimum of two) that are set on the point cloud map.
 
+.. figure:: images/3d_digitalization_measurement_tools.png
+    :name: measurement tools
+    :align: center
+
+
 Tools:
 
 * Measurement of distance: Distance is measured between points, multiple points can be set.
@@ -63,19 +84,29 @@ Tools:
 * Measurement of distance on horizontal plane: Measurement is done between point, distance is measured only horizontally.
 * Measurement of area: Area is measured between minimum of there points.
 * Measurement of angle: Angle is measured between 3 points.
-* Measurement of angle from north:
+* Measurement of angle facing north: Angle is measured between 3 points. When the first point is placed, a second point is placed on the map facing north, and the third point can be placed.
 
 Add new feature
 ---------------
 
 When the add tool is active, drawing a new object is possible on the point cloud map, when a layer is set as active layer. By default the add tool can be activated with the button "e".
 
-The new object's type, depends on the active layer's type. It can be point, line or poligon.
+.. figure:: images/3d_digitalization_add.png
+    :name: add tool
+    :align: center
+
+
+.. note:: The new object's type, depends on the active layer's type. It can be point, line or poligon.
 
 Edit existing feature
 ---------------------
 
 When the edit tool is active, objects on the point cloud map are selectable. Selected objects can be edited (add new points, remove, change parameters on form, etc.). By default the edit tool can be activated with button "r". Edited points can be moved on selected axis. (button "x")
+
+.. figure:: images/3d_digitalization_edit.png
+    :name: edit tool
+    :align: center
+
 
 Actions:
 
@@ -98,6 +129,11 @@ Undo / redo
 
 Undo or redo tool is active when add or edit tool is selected.
 
+.. figure:: images/3d_digitalization_undoredo.png
+    :name: undo and redo tools
+    :align: center
+
+
 Actions:
 
 * Undo: Undo an action.
@@ -108,6 +144,11 @@ Delete feature
 
 Delete tool is active when an object is selected in the point cloud map.
 
+.. figure:: images/3d_digitalization_delete.png
+    :name: delete tool
+    :align: center
+
+
 Actions:
 
 * Remove object: Remove selected object.
@@ -115,13 +156,28 @@ Actions:
 Copy / paste feature
 --------------------
 
+.. figure:: images/3d_digitalization_copypaste.png
+    :name: copy, paste tool
+    :align: center
+
+
 Join line features
 ------------------
+
+.. figure:: images/3d_digitalization_joinline.png
+    :name: join line tool
+    :align: center
+
 
 Snapping
 ---------
 
 Snap to vertex tool can be activated or deactivated. When drawing an object, and the pointer is near to another object, it will jump or snap to the other object's point. Snap to vertex can be used when an object is edited or a new is created.
+
+.. figure:: images/3d_digitalization_snap.png
+    :name: snap tool
+    :align: center
+
 
 Snap tool types:
 
@@ -129,23 +185,46 @@ Snap tool types:
 * Vertex: Pointer snaps to the object's point.
 * Line and vertex: Pointer snaps to the object's lines and points.
 
+.. figure:: images/3d_digitalization_snaptypes.png
+    :name: snap types
+    :align: center
+
+
 Open attribute form
 -------------------
 
 Form can be opened with open object's form tool. When the form is opened it is filled with fields where the object's parameter can be changed. (by default form can be opened with "space" button)
 
+.. figure:: images/3d_digitalization_openform.png
+    :name: open form tool
+    :align: center
+
+
 Actions on form:
 
-* Data: Fields where the object parameters can be set or changed.
-* Save: Save object's parameters.
-* Cancel: Cancel and close object popup window.
-* Remove: Remove selected object.
-* Open point cloud: Open "Point cloud" section.
+# Data: Fields where the object parameters can be set or changed.
+# Cancel: Cancel and close object popup window.
+# Save and close: Save object's parameters and close the object's form popup.
+# Save: Save object's parameters.
+# Delete: Remove selected object.
+# Object attachments: Photos and attachments can be managed.
+
+.. figure:: images/3d_digitalization_form.png
+    :name: form
+    :align: center
+
+
+More info about the object form can be read here: :ref:`Attribute form <attribute_form>`
 
 Clipbox
 -------
 
 Clipbox tool is used to clip a selected part of the point cloud map. When the clipbox is set, only the clipped part is visible, other parts of the point cloud map will be hidden. This tool make the work easier, and concentrates on a limited section of the point coud map.
+
+.. figure:: images/3d_digitalization_clipbox.png
+    :name: clipbox tool
+    :align: center
+
 
 Actions:
 
@@ -160,9 +239,8 @@ Actions:
         * Cancel clipping: Only available when the clipbox is activated, cancels the clipping the point cloud map returns to its original state and deactivated the clipbox tool.
     * Deactivates Cancel clip: Deactivates the clipbox tool.
 
-:ref:`Attribute form <attribute_form>`
-
 Shortcuts
 ---------
 
-:ref:`Shortcuts <shortcuts>`
+Shortcuts are used on the point cloud map. They are useful when objects are added or edited.
+More info about shortcuts can be read here :ref:`Shortcuts <shortcuts>`

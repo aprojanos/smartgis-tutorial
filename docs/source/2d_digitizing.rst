@@ -17,10 +17,12 @@ Actions:
 * Drawing and object is done by activating the tool and clicking on the map.
 * To finishing drawing the new object simply double click on the object's last point on the map.
 
-.. tip:: For example a line object contains of 3 points, draw the first and sercond point and when drawing the third point double click to finish the object.
+.. tip:: For example, when drawing a line object which contains of 3 points, draw the first and sercond point and when drawing the third point double click to finish the object.
 
 Delete feature
 --------------
+
+To remove an object, object must be selected on the 2D map. When the object is selected, object can be removed through the objects form by selecting the remove button.
 
 Undo / redo
 -----------
@@ -45,5 +47,7 @@ Snap tool types:
 
 Open attribute form
 -------------------
+
+When an object is selected from the map, object's attributes are opened and displayed in the attribute form. Object's data can be changed and saved.
 
 :ref:`Attribute form <attribute_form>`
