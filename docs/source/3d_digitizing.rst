@@ -229,7 +229,7 @@ Actions on form:
     :width: 10cm
 
 
-More info about the object form can be read here. :ref:`Attribute form <attribute_form>`
+More info about the object form can be read here. :ref:`Attribute_form <attribute_form>`
 
 Clipbox
 -------
