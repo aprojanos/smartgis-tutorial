@@ -124,6 +124,16 @@ Actions:
 * Save parameters: Parameters can be saved through "open form" tool or when the "space" button is pressed.
 * Shortcuts: More information about shortcuts under section "Shortcuts".
 
+Follow drawing
+--------------
+
+Follow drawing tool can be activated alongside with the add or edit tool. When the tool is activated and drawing on the point cloud map, camera will be focused on the newly drawn or edit object's points.
+
+.. figure:: images/3d_digitalization_followdraw.png
+    :name: follow drawing tool
+    :align: center
+
+
 Undo / redo
 -----------
 
