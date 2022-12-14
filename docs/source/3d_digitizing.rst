@@ -156,6 +156,8 @@ Actions:
 Copy / paste feature
 --------------------
 
+Tool can be used with the edit tool. When an object is selected on the point cloud map, the tool can be activated. When clicked on the copy tool, the paste tool activates. When clicked on the paste tool the mouse cursor changes to a cross. In this state the copied object can be pasted on the point colud map.
+
 .. figure:: images/3d_digitalization_copypaste.png
     :name: copy, paste tool
     :align: center
@@ -163,6 +165,8 @@ Copy / paste feature
 
 Join line features
 ------------------
+
+Tool can be used with the edit tool. When an object is selected it changes to color yellow, then another object can be selected by pressing the ctrl button on the keyboard and selecting it on the point cloud map. The second object will change its color to green. Then the join line tool is activated. When used the user will be asked to join the two objects. When it is accepted the first object's geometry will be changed and the second object will be removed.
 
 .. figure:: images/3d_digitalization_joinline.png
     :name: join line tool
