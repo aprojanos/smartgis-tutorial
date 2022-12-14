@@ -202,19 +202,20 @@ Form can be opened with open object's form tool. When the form is opened it is f
 
 Actions on form:
 
-# Data: Fields where the object parameters can be set or changed.
-# Cancel: Cancel and close object popup window.
-# Save and close: Save object's parameters and close the object's form popup.
-# Save: Save object's parameters.
-# Delete: Remove selected object.
-# Object attachments: Photos and attachments can be managed.
+#. Data: Fields where the object parameters can be set or changed.
+#. Cancel: Cancel and close object popup window.
+#. Save and close: Save object's parameters and close the object's form popup.
+#. Save: Save object's parameters.
+#. Delete: Remove selected object.
+#. Object attachments: Photos and attachments can be managed.
 
 .. figure:: images/3d_digitalization_form.png
     :name: form
     :align: center
+    :width: 10cm
 
 
-More info about the object form can be read here: :ref:`Attribute form <attribute_form>`
+More info about the object form can be read here. :ref:`Attribute form <attribute_form>`
 
 Clipbox
 -------
@@ -243,4 +244,4 @@ Shortcuts
 ---------
 
 Shortcuts are used on the point cloud map. They are useful when objects are added or edited.
-More info about shortcuts can be read here :ref:`Shortcuts <shortcuts>`
+More info about shortcuts can be read here. :ref:`Shortcuts <shortcuts>`
