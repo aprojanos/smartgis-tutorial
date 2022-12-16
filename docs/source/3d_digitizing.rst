@@ -11,6 +11,7 @@
     :name: 3d digitalization
     :align: center
     :width: 10cm
+    :padding: 5px
 
 
 .. note:: Digitalization tools that are for creating or editing features are available when the active layer is set.
@@ -229,7 +230,7 @@ Actions on form:
     :width: 10cm
 
 
-More info about the object form can be read here. :ref:`Attribute_form <attribute_form>`
+More info about the object form can be read here. :ref:`Attribute form <attribute_form>`
 
 Clipbox
 -------
