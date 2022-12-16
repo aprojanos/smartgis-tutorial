@@ -1,3 +1,4 @@
+.. _attribute_form:
 Attribute form
 ==============
 
