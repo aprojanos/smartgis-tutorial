@@ -15,7 +15,7 @@ Table actions
 .. figure:: images/attribute_table_tablesection.png
     :name: table content
     :align: center
-    :width: 10cm
+    :width: 13cm
 
 
 **multiple layer feature tabs**
