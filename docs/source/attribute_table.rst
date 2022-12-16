@@ -18,11 +18,11 @@ Table actions
     :width: 13cm
 
 
-**multiple layer feature tabs**
+**1. Selected layers in tabs**
 
 When multiple layers are opened, it's objects attributes are displayed in tabs. Tabs can be selected to change which layer content is displayed or it can be closed.
 
-**Filtering content by polygon selection**
+**2. Filtering content by polygon selection**
 
 By selecting the tool polygon filtering, drawing will be activated, and a polygon can be drawn on the 2D map. Table data will be filtered acording to the drawn polygon, only those objects will be displayed in the table, which are inside the drawn polygon.
 
@@ -31,15 +31,15 @@ Actions:
 * Polygon selection: Turns on the tool, drawing is activated on the 2D map and it can finish by double clicking on the map.
 * Cancel selection: Turns off the tool, clear the filter from the map and table.
 
-**Compact view**
+**3. Compact view**
 
 By selecting the tool (turning on and off) table rows will be adjusted to its minimal height. If table rows contains images (with lables) they will be reduced to fit the table rows.
 
-**Filter map with table data**
+**4. Filter map with table data**
 
 By selecting the tool (turning on and off) the 2D map will be filtered by the table data. If table data is already filtered, map will be filter accordingly.
 
-**Export table data**
+**5. Export table data**
 
 By selecting this tool exporting data from table is possible.
 
@@ -58,7 +58,7 @@ Settings:
 
 .. tip:: Not all user can export data, permission has to be attached to the user to allow export.
 
-**Show or hide table columns**
+**6. Show or hide table columns**
 
 Table column visibility can be changed to set which table columns will be shown or hidden.
 
@@ -70,36 +70,36 @@ Settings:
 
 .. note:: Only the checked columns will be shown.
 
-**Show or hide table**
+**7. Show or hide table**
 
 Minimize or restore table view.
 
-**Close**
+**8. Close**
 
 Closes the table view section.
 
-**Sorting table data by column**
+**9. Sorting table data by column**
 
 Table data can be sorted ascending or descending, by clicking on the column name.
 
-**Filter table data by set value**
+**10. Filter table data by set value**
 
 Table data will be filtered by the selected columns value.
 
-**Zoom on object**
+**11. Zoom on object**
 
 Focuses the 2D map on the selected object.
 
-**Edit object's attributes**
+**12. Edit object's attributes**
 
 Opens up the object's attribute form popup. In this popup the object's data can be changed and saved.
 
-**Itmes per page**
+**13. Itmes per page**
 
 Number of object per page can be set. It can be 10, 25, 50, 100, 500, 1000 or all.
 
 .. note:: The more objects are set to display, (1000 or all) the greater will be the impact on performance.
 
-**Paging**
+**14. Paging**
 
 Used to page through the list of objects.
