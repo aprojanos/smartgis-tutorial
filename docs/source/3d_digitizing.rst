@@ -11,7 +11,6 @@
     :name: 3d digitalization
     :align: center
     :width: 10cm
-    :padding: 5px
 
 
 .. note:: Digitalization tools that are for creating or editing features are available when the active layer is set.
