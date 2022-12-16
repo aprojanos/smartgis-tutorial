@@ -3,8 +3,20 @@ Attribute table
 
 Objects are displayed mainly on the 2D map, but there is an option to display object's attributes arranged in a table view. To open a layer's objects in the table view in the legend, open a layer group, and the layer's more option select the option "open in table".
 
+.. figure:: images/attribute_table.png
+    :name: attribute table
+    :align: center
+    :width: 10cm
+
+
 Table actions
 -------------
+
+.. figure:: images/attribute_table_tablesection.png
+    :name: table content
+    :align: center
+    :width: 10cm
+
 
 **multiple layer feature tabs**
 
