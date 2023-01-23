@@ -47,6 +47,8 @@ Actions:
     :align: center
     :width: 5cm
 
+* To save the edited object click on the "save" tool (this will save the new position of the object) or on the "open form" tool (this will open the object's form, and additional parameters can be modified).
+
 Delete feature
 --------------
 
