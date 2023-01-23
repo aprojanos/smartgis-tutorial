@@ -54,6 +54,7 @@ Settings of the point cloud map can be set.
 .. figure:: images/3d_digitalization_settings.png
     :name: settings
     :align: center
+    :width: 5cm
 
 
 Actions:
