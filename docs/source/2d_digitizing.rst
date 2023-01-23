@@ -4,7 +4,7 @@
 Select active layer from map legend
 -----------------------------------
 
-Layers are represented in layer groups. A layer can be set as active layer, when a layer group is opened an a layer is selected from the list. (clicked on the layer's name) Toolbar will apear inside the map view's upper right corner alog with active layer's name.
+Layers are represented in layer groups. A layer can be set as active layer, when a layer group is opened an a layer is selected from the list (clicked on the layer's name). Toolbar will apear inside the map view's upper right corner alog with active layer's name.
 
 .. figure:: images/2d_digitalization_layergroups.png
     :name: latey groups
@@ -12,17 +12,40 @@ Layers are represented in layer groups. A layer can be set as active layer, when
     :width: 10cm
 
 
-Add new / edit existing feature
--------------------------------
+Add new feature
+---------------
 
-Adding or editing object's are possible only, when the active layer is set. To add an object the "+" button must be selected from the toolbar.
+Adding an object's is possible, when the active layer is set. To add an object, select the "+" tool from the toolbar.
 
 Actions:
 
 * Drawing and object is done by activating the tool and clicking on the map.
-* To finishing drawing the new object simply double click on the object's last point on the map.
+* To finishing drawing the new object simply double click on the object's last point on the map. (when drawing a point object, single clicking on the map is enough, double clicking is necessary only when drawing an object with multiple points like lines or poligons)
 
 .. tip:: For example, when drawing a line object which contains of 3 points, draw the first and sercond point and when drawing the third point double click to finish the object.
+
+Edit existing feature
+---------------------
+
+Editing an object's is possible, when the active layer is set. To edit an object, select the "pencil" tool from the toolbar.
+
+Actions:
+
+* On the map, select an object to activate it.
+* Click on the object again to edit its points.
+* Click and drag the endpoints to relocate.
+
+.. figure:: images/2d_digitalization_editlinepoint.png
+    :name: edit line end point
+    :align: center
+    :width: 5cm
+
+* Click and drag the lines to breake and create additional endpoints.
+
+.. figure:: images/2d_digitalization_editlinepoints.png
+    :name: edit multiple points
+    :align: center
+    :width: 5cm
 
 Delete feature
 --------------
