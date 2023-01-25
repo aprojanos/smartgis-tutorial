@@ -10,8 +10,6 @@
 .. figure:: images/3d_digitalization.png
     :name: 3d digitalization
     :align: center
-    :width: 10cm
-
 
 .. note:: Digitalization tools that are for creating or editing features are available when the active layer is set.
 
@@ -23,7 +21,6 @@ There are 4 map view modes and 6 camera view modes.
 .. figure:: images/3d_digitalization_viewmodes.png
     :name: viewmodes
     :align: center
-
 
 Map view modes:
 
@@ -37,7 +34,6 @@ User view of the point cloud map is rotated to its predifined views:
 .. figure:: images/3d_digitalization_cameraviews.png
     :name: cameraviews
     :align: center
-
 
 * Left side view
 * Right side view
@@ -54,8 +50,6 @@ Settings of the point cloud map can be set.
 .. figure:: images/3d_digitalization_settings.png
     :name: settings
     :align: center
-    :width: 5cm
-
 
 Actions:
 
@@ -77,7 +71,6 @@ Measurement tools are used to measure lenght, distance, height, area, angle on t
     :name: measurement tools
     :align: center
 
-
 Tools:
 
 * Measurement of distance: Distance is measured between points, multiple points can be set.
@@ -96,7 +89,6 @@ When the add tool is active, drawing a new object is possible on the point cloud
     :name: add tool
     :align: center
 
-
 .. note:: The new object's type, depends on the active layer's type. It can be point, line or poligon.
 
 Edit existing feature
@@ -107,7 +99,6 @@ When the edit tool is active, objects on the point cloud map are selectable. Sel
 .. figure:: images/3d_digitalization_edit.png
     :name: edit tool
     :align: center
-
 
 Actions:
 
@@ -134,7 +125,6 @@ Follow drawing tool can be activated alongside with the add or edit tool. When t
     :name: follow drawing tool
     :align: center
 
-
 Undo / redo
 -----------
 
@@ -143,7 +133,6 @@ Undo or redo tool is active when add or edit tool is selected.
 .. figure:: images/3d_digitalization_undoredo.png
     :name: undo and redo tools
     :align: center
-
 
 Actions:
 
@@ -159,7 +148,6 @@ Delete tool is active when an object is selected in the point cloud map.
     :name: delete tool
     :align: center
 
-
 Actions:
 
 * Remove object: Remove selected object.
@@ -173,7 +161,6 @@ Tool can be used with the edit tool. When an object is selected on the point clo
     :name: copy, paste tool
     :align: center
 
-
 Join line features
 ------------------
 
@@ -183,7 +170,6 @@ Tool can be used with the edit tool. When an object is selected it changes to co
     :name: join line tool
     :align: center
 
-
 Snapping
 ---------
 
@@ -192,7 +178,6 @@ Snap to vertex tool can be activated or deactivated. When drawing an object, and
 .. figure:: images/3d_digitalization_snap.png
     :name: snap tool
     :align: center
-
 
 Snap tool types:
 
@@ -204,7 +189,6 @@ Snap tool types:
     :name: snap types
     :align: center
 
-
 Open attribute form
 -------------------
 
@@ -213,7 +197,6 @@ Form can be opened with open object's form tool. When the form is opened it is f
 .. figure:: images/3d_digitalization_openform.png
     :name: open form tool
     :align: center
-
 
 Actions on form:
 
@@ -227,8 +210,6 @@ Actions on form:
 .. figure:: images/3d_digitalization_form.png
     :name: form
     :align: center
-    :width: 10cm
-
 
 More info about the object form can be read here. :ref:`Attribute form <attribute_form>`
 
@@ -240,7 +221,6 @@ Clipbox tool is used to clip a selected part of the point cloud map. When the cl
 .. figure:: images/3d_digitalization_clipbox.png
     :name: clipbox tool
     :align: center
-
 
 Actions:
 
