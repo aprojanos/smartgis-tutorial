@@ -9,8 +9,6 @@ Layers are represented in layer groups. A layer can be set as active layer, when
 .. figure:: images/2d_digitalization_layergroups.png
     :name: latey groups
     :align: center
-    :width: 10cm
-
 
 Add new feature
 ---------------
@@ -38,14 +36,12 @@ Actions:
 .. figure:: images/2d_digitalization_editlinepoint.png
     :name: edit line end point
     :align: center
-    :width: 5cm
 
 * Click and drag the lines to breake and create additional endpoints.
 
 .. figure:: images/2d_digitalization_editlinepoints.png
     :name: edit multiple points
     :align: center
-    :width: 5cm
 
 * To save the edited object click on the "save" tool (this will save the new position of the object) or on the "open form" tool (this will open the object's form, and additional parameters can be modified).
 
