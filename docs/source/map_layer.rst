@@ -1,6 +1,7 @@
-Layer settings
+Layer editor
 ==============
 
+.. _layer_editor:
 Basic settings
 --------------
 

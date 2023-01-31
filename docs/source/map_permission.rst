@@ -1,3 +1,5 @@
+.. _map_permssions:
+
 Permissions
 ===========
 

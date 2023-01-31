@@ -12,5 +12,6 @@ Maps ...
     map_field_editor
     map_pointcloud
     map_permission
+    map_basemap
 
 

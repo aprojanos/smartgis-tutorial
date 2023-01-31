@@ -1,4 +1,4 @@
-Main features
+Introduction
 =============
 SmartGIS is a modern web-based software for digitizing spatial data and displaying it in 2D and 3D environments. Artificial intelligence-based tools and algorithms further assist users in the tasks of recognizing and classifying digital objects.
 
@@ -12,7 +12,13 @@ Main features and benefits:
 
 Data management
 ---------------
-Tools for managing geospatial data, such as importing, exporting, viewing, archiving, merging, cleaning, correcting and categorizing photos and point clouds.
+Import and export various geospatial data formats, such as shapefiles, geodatabases, and raster data.
+
+Functions for creating, editing, and updating geospatial data, including tools for digitizing maps.
+
+Map visualization: create and display interactive maps, including the use of various symbols, colors, and labels to represent different data layers.
+
+Integration with other software tools, such as CAD and survey software, to import and export data between systems.
 
 Mobility and collaboration
 --------------------------
@@ -28,7 +34,7 @@ SmartGIS can be used by public institutions and companies, local governments, tr
 
 Work online or install the platform on-premises
 -----------------------------------------------
-You can use SmartGIS online, where we create a copy of the application and host it on a cloud server. 
+You can use SmartGIS online, where we create a copy of the application and host it on a cloud server.
 It is also possible to install the complete system on the customer's server. In this case you must meet certain requirements:
 
 * linux operating system

@@ -7,9 +7,6 @@ Compact view
 Preview image
 -------------
 
-Base maps
----------
-
 Reorder
 -------
 
