@@ -31,7 +31,7 @@ Sidebar
 The navigation menu of the application is located here. It contains fixed, context-dependent and freely definable elements.
 
 .. figure:: images/sidebar.png
-    :name: sidebar
+    :name: sidebarimg
     :align: center
 
     Sidebar
@@ -50,6 +50,9 @@ Customizable items
 * terms of use
 * cookie consent settings
 * custom pages defined by application initialization
+
+When initializing the application, we can specify which pages should be displayed on the sidebar. The content of the pages can be changed at any time. If the application has been initialized for multiple languages, these pages can be loaded in all the languages that have been specified.
+
 
 Viewport
 ----------

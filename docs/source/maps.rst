@@ -1,4 +1,4 @@
-Maps - projects
+Maps - Projects
 ===============
 
 Maps ...

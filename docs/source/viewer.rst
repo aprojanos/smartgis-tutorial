@@ -126,5 +126,6 @@ Since we can export a lot of large layers, exporting can take some time. To avoi
 
 .. figure:: images/layer_export.png
    :align: center
+   :width: 12cm
 
    Layer export dialog
