@@ -1,2 +1,5 @@
 Map creation
 ============
+
+Trajectory selection
+--------------------
