@@ -26,11 +26,12 @@ Dark mode can be turned on or off. When turned on a darker color scheme is used 
     :align: center
 
 .. _shortcuts:
+
 Shortcuts
---------
+---------
 
 .. figure:: images/settings_shortcuts.png
-    :name: shortcuts
+    :name: settings_shortcuts
     :align: center
 
 Shortcuts are used frequently when working with gis objects. Default shortcuts can be changed by the users needs.
