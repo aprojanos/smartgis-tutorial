@@ -20,6 +20,8 @@ Creating maps in SmartGIS involves the following operations:
 * Interactivity: Adding interactive features to the map, such as pop-up windows and querying of data layers.
 
 
+.. _mapadmin:
+
 Data and map operations are managed on the administration pages.
 These pages are only available to users added within the application, on the :ref:`Team management <users>` page.
 

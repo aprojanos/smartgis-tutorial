@@ -1,3 +1,5 @@
+.. _datasources:
+
 Data sources
 ============
 
@@ -28,6 +30,8 @@ Data sources play a crucial role in GIS map creation. They provide the raw mater
 * Drone-collected data: It is increasingly popular in GIS applications as it provides fast, cost-effective and accurate data collection options.
 
 * Personal data collection: Data can be collected personally, such as through field surveys, to create custom data sets for use in GIS maps.
+
+Data source administration pages can be accessed from the sidebar: :ref:`Administration->Data Sources<mapadmin>`.
 
 Data source sections
 --------------------

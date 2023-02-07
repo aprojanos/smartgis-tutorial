@@ -27,6 +27,8 @@ Access rights can be granted to projects and the layers on them.
 This allows to control, for example, whether a map or its layers should be public or which teams can edit the content of certain layers
 (digitizing, edit attributes, upload images / attachments).
 
+.. _project_selector:
+
 As a first step, the project selection screen will appear.
 You can call this up later using the project selector in the toolbar.
 After loading the selected project, the map viewer will be initialized.

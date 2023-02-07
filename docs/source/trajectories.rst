@@ -14,6 +14,8 @@ A panoramic photography is essentially a photo with a wide format, whether that'
 
 Mobile mapping data is always uploaded via FTP.
 
+.. _pointclouds:
+
 Point clouds
 ------------
 
@@ -32,6 +34,9 @@ In SmartGIS, each panorama image series must belong to a trajectory. The images 
 
 Trajectory administration
 -------------------------
+
+Trajectory administration pages can be accessed from the sidebar: :ref:`Administration->Point clouds<mapadmin>`.
+
 The trajectory administration is split into two sections: one for accessible trajectories and another for trajectories undergoing processing. The accessible trajectories are organized into folders, which are also utilized for grouping in both the administrative pages and maplegend panel. The trajectory administration page displays the contents of the selected folder.
 
 .. figure:: images/trajectory_list.png
@@ -76,12 +81,20 @@ When you have large images, you can speed up the display by using a lower resolu
 .. note:: After the porcessing is finished (if necessary), the created trajectory will be in the **unlcassified** folder. It will not be available automatically to the application, you need to toggle **Active** to enable it.
 
 The trajectory parameters can be changed later and the point cloud or panoramic images can be replaced. To do this, click on **...** at the end of the line and select **Edit** from the menu that appears.
-This menu also contains the **Delete** and **Export** trajectory commands. You can only delete trajectories that are not used in projects. Export gives the URL of the point cloud and the panoramic images which can be used in another application, e.g. in another installed SmartGIS instance. In addition to retrieving URLs, it is possible to download a metadata file for panoramic images.
 
 .. figure:: images/trajectory_menu.png
     :align: center
 
     Local menu commands
+
+This menu also contains the **Delete** and **Export** trajectory commands. You can only delete trajectories that are not used in projects. Export gives the URL of the point cloud and the panoramic images which can be used in another application, e.g. in another installed SmartGIS instance. In addition to retrieving URLs, it is possible to download a metadata file for panoramic images.
+
+.. figure:: images/trajectory_export.png
+    :align: center
+    :width: 17cm
+
+    Exporting a trajectory
+
 
 
 Trajectory folders
