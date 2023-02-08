@@ -113,7 +113,7 @@ Selected datsources can also be deleted by clicking on the Trash icon:
 Creating a new data source
 --------------------------
 
-To create a new folder, click the **+** icon in the bottom right corner and select **Datasource**. A **New datasource** window will appear with the following fields:
+To create a new folder, click the **+** icon in the bottom right corner and select **Datasource**. A **New datasource** panel will appear with the following fields:
 
 * **Name** - datasource name
 * Description - optional description

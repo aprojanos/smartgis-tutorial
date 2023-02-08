@@ -1,1 +1,1 @@
-sphinx-hoverxref==1.3.0
+# sphinx-hoverxref==1.3.0

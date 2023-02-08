@@ -41,4 +41,5 @@ gettext_compact = False
 master_doc = 'index'
 latext_engine = 'pdflatex'
 
-hoverxref_auto_ref = True
+# hoverxref_auto_ref = True
+# hoverxref_api_host = 'https://smartgis-docs.geo.rs'

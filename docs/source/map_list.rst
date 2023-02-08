@@ -1,6 +1,8 @@
 Project list
 ============
 
+.. _project_list:
+
 In the list, each project is displayed with a preview image in the order we have defined. With the activate/deactivate function you can control whether the project is available in the application, whether it is displayed in the :ref:`map selector<project_selector>`.
 
 .. figure:: images/map_list.png

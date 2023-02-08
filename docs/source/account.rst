@@ -8,7 +8,7 @@ Users can log in by entering their email address and password. Users are registe
 When configuring the application, it is possible to allow users to log in with a Google or Facebook account. This should be used when setting up WebGIS portals where external users can access certain services, e.g. reporting bugs, posting comments, etc.
 
 .. figure:: images/Login.png
-   :name: login
+   :name: login_screen
    :align: center
 
    Login
