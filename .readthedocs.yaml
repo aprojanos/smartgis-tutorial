@@ -14,5 +14,6 @@ formats:
     - pdf
 
 python:
+    version: 3.6
     install:
-        - docs/requirements.txt
+        - requirements: docs/requirements.txt
