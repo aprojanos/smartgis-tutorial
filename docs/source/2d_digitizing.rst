@@ -1,3 +1,5 @@
+.. _2d_digitizing:
+
 2D digitizing tools
 ====================
 
@@ -7,8 +9,10 @@ Select active layer from map legend
 Layers are represented in layer groups. A layer can be set as active layer, when a layer group is opened an a layer is selected from the list (clicked on the layer's name). Toolbar will apear inside the map view's upper right corner alog with active layer's name.
 
 .. figure:: images/2d_digitalization_layergroups.png
-    :name: latey groups
+    :name: layer groups
     :align: center
+
+    Slecting the active layer
 
 Add new feature
 ---------------

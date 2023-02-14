@@ -11,6 +11,8 @@
     :name: 3d digitalization
     :align: center
 
+    Point cloud map
+
 .. note:: Digitalization tools that are for creating or editing features are available when the active layer is set.
 
 View modes
@@ -19,7 +21,7 @@ View modes
 There are 4 map view modes and 6 camera view modes.
 
 .. figure:: images/3d_digitalization_viewmodes.png
-    :name: viewmodes
+    :name: view modes
     :align: center
 
 Map view modes:
@@ -50,6 +52,8 @@ Settings of the point cloud map can be set.
 .. figure:: images/3d_digitalization_settings.png
     :name: settings
     :align: center
+
+    Point cloud settings
 
 Actions:
 
@@ -104,12 +108,11 @@ Actions:
 
 * Left click on object (single click): First click selects the object. (point, line, polygon) Other objects cant be selected until the current object is deselected.
 * When the object is selected:
-* Position of the edited object's point can be changed along x, y, z axes.
-* Add new point to the end of the object. (ctrl + click on line of the object)
-* Add new point on the line of the object. (between existing points) (shift
-* click on the line of the object)
-* Remove object points: Remove points of the selected object. (buttons "delete" or "d")
-* Active object edit can be deactivated with button "esc".
+    * Position of the edited object's point can be changed along x, y, z axes.
+    * Add new point to the end of the object. (ctrl + click on line of the object, this action is done by a shortcut)
+    * Add new point on the line of the object. (between existing points) (shift click on the line of the object, this action is done by a shortcut)
+    * Remove object points: Remove points of the selected object. (buttons "delete" or "d", this action is done by a shortcut)
+    * Active object edit can be deactivated with button "esc".
 
 * Layer selection: Selected layer (active layer):
 * When another layer is selected, active drawn object can be saved, removed, or continued.
@@ -155,7 +158,7 @@ Actions:
 Copy / paste feature
 --------------------
 
-Tool can be used with the edit tool. When an object is selected on the point cloud map, the tool can be activated. When clicked on the copy tool, the paste tool activates. When clicked on the paste tool the mouse cursor changes to a cross. In this state the copied object can be pasted on the point colud map.
+Tool can be used with the edit tool. When an object is selected on the point cloud map, the tool can be activated. When clicked on the copy tool, the paste tool activates. When clicked on the paste tool the mouse cursor changes to a cross. In this state the copied object can be pasted on the point cloud map.
 
 .. figure:: images/3d_digitalization_copypaste.png
     :name: copy, paste tool
@@ -171,7 +174,7 @@ Tool can be used with the edit tool. When an object is selected it changes to co
     :align: center
 
 Snapping
----------
+--------
 
 Snap to vertex tool can be activated or deactivated. When drawing an object, and the pointer is near to another object, it will jump or snap to the other object's point. Snap to vertex can be used when an object is edited or a new is created.
 
@@ -210,6 +213,8 @@ Actions on form:
 .. figure:: images/3d_digitalization_form.png
     :name: form
     :align: center
+
+    Attribute form
 
 More info about the object form can be read here. :ref:`Attribute form <attribute_form>`
 

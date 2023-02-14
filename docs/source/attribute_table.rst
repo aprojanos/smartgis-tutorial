@@ -6,6 +6,8 @@ Objects are displayed mainly on the 2D map, but there is an option to display ob
 .. figure:: images/attribute_table.png
     :name: attribute table
     :align: center
+    
+    Opening attribute table from layer, more options
 
 Table actions
 -------------
@@ -13,6 +15,8 @@ Table actions
 .. figure:: images/attribute_table_tablesection.png
     :name: table content
     :align: center
+
+    Attribute table
 
 **1. Selected layers in tabs**
 

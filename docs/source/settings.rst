@@ -26,8 +26,9 @@ Dark mode can be turned on or off. When turned on a darker color scheme is used 
     :align: center
 
 .. _shortcuts:
+
 Shortcuts
---------
+---------
 
 .. figure:: images/settings_shortcuts.png
     :name: shortcuts

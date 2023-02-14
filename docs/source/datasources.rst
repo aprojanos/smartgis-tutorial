@@ -1,5 +1,5 @@
 Datasources
-======
+===========
 
 To create maps, you must first add data sources. These can be files, database connections or services from external map servers (WMS, tile servers).
 

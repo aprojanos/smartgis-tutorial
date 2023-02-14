@@ -8,6 +8,8 @@ Object's attributes and parameters can be edited on the attribute from.
     :name: attribute form
     :align: center
 
+    Object's attribute form
+
 .. note:: Layer object actions are tied to user permissions.
 
 Open form
@@ -43,6 +45,8 @@ Additional images can be attached to the object. It can be uploaded from the use
     :name: attribute form attach image
     :align: center
 
+    Attribute form, image manager
+
 Actions:
 
 * Add photo: An image can be selected and prepared for upload. Multiple images can be prepared for upload.
@@ -62,6 +66,8 @@ Actions:
     :name: attribute form attach image
     :align: center
 
+    List of uploaded images
+
 Attach documents
 ----------------
 
@@ -70,6 +76,8 @@ Additional files, documents can be attached to the object. It can be uploaded fr
 .. figure:: images/attribute_form_attachfile.png
     :name: attribute form attach file
     :align: center
+
+    Attribute form, file manager
 
 Actions:
 
@@ -80,3 +88,5 @@ Actions:
 .. figure:: images/attribute_form_attachfileupload.png
     :name: attribute form file prepared for upload
     :align: center
+
+    List of uploaded files
