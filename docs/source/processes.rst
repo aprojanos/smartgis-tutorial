@@ -1,3 +1,5 @@
+.. _processes:
+
 Background processes
 ====================
 

@@ -12,6 +12,7 @@ Project administration pages can be accessed from the sidebar: :ref:`Administrat
     map_folders
     map_layer
     map_field_editor
+    map_layer_commands
     map_permission
     map_basemap
 

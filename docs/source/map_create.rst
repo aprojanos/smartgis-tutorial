@@ -28,13 +28,14 @@ To create a new map, click on **+** in the bottom right corner of the :ref:`proj
 
     New project panel
 
-After saving, the map editor window opens, which is divided into two parts: the map preview window and the settings window. wYou can specify additional parameters in the OVERVIEW tab in the settings:
+After saving, the map editor window opens, which is divided into two parts: the map preview window and the settings window. You can specify additional parameters in the OVERVIEW tab in the settings:
 
 * **Zoom levels** - setting the minimum, maximum zoom level and the default zoom level at which the map starts for users
 * **Default positon** - specify the starting position of the map.
 * **Map extent** - define the area of the map. The layout also allows you to navigate outside this area, in which case you can use the "Zoom to extent" button to return to the base area. Furthermore, the tilecache generation of layers is limited to the specified area.
 * **Basemap selection** - a pop-up panel shows a list of basemaps, from which you can choose which ones should be available on the map
 
+.. note:: The preview window is initially empty, you have to choose basemaps and select one as default, then the basemap will be displayed.
 
 .. figure:: images/map_editor.png
     :align: center
