@@ -27,3 +27,16 @@ Reordering projects
 You can change the order of the projects at any time. Just grab the reorder icon at the beginning of each row and move the row to the desired position.
 
 .. tip:: It's a good idea to switch to compact view to get a better overview of the list of projects and to make it easier to move around.
+
+
+Editing, deleting projects
+--------------------------
+
+Project editing / deleting functions can be accessed by clicking on **...*** in the row. The editor opens even if you click on the project name.
+
+.. figure:: images/map_functions.png
+    :align: center
+
+    Map functions
+
+.. caution:: The deletion is not limited to those with empty content. If a project is deleted, its entire contents will be removed. This operation is not reversible.
