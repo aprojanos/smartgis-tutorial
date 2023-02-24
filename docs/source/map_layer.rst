@@ -1,7 +1,8 @@
-Layer editor
+Layer creation
 ==============
 
-.. _layer_editor:
+.. _layer_creation:
+
 Basic settings
 --------------
 

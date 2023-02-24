@@ -1,9 +1,10 @@
+.. _layer_editor:
+
+
 Layer editor
 ===================
 
-.. _layer_editor:
-    
-Introduction ... 
+Introduction ...
 
 .. toctree::
     attribute_table

@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+   # 'hoverxref.extension',
 ]
 
 intersphinx_mapping = {
@@ -39,3 +40,6 @@ gettext_uuid = True
 gettext_compact = False
 master_doc = 'index'
 latext_engine = 'pdflatex'
+
+# hoverxref_auto_ref = True
+# hoverxref_api_host = 'https://smartgis-docs.geo.rs'

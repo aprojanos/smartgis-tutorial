@@ -1,11 +1,12 @@
 .. _attribute_form:
+
 Attribute form
 ==============
 
 Object's attributes and parameters can be edited on the attribute from.
 
 .. figure:: images/attribute_form.png
-    :name: attribute form
+    :name: attribute_form_image
     :align: center
 
     Object's attribute form
@@ -54,7 +55,7 @@ Actions:
 * Crop: When the image is selected, it can be cropped. Set the cropping rectangle to the desired width and height and press the "crop" button. To reset the cropping, press the "X" button.
 
 .. figure:: images/attribute_form_cropimage.png
-    :name: attribute form attach image
+    :name: attribute form crop image
     :align: center
 
 * Cancel: Cancel the upload and close the attribute form.
@@ -63,7 +64,7 @@ Actions:
 * Add new image: A new image can be selected and prepared for upload.
 
 .. figure:: images/attribute_form_imageuploaded.png
-    :name: attribute form attach image
+    :name: attribute form uploaded image
     :align: center
 
     List of uploaded images
