@@ -38,5 +38,6 @@ These pages are only available to users added within the application, on the :re
     datasources
     trajectories
     maps
-    lookups
-    searches
+..
+   lookups
+   searches

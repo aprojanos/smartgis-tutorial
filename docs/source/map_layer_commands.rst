@@ -11,8 +11,10 @@ In the map editor, click on **...** in the layers row to invoke the layer comman
     :align: center
 
     Layer commands
+
 Edit
 -----
+
 Opens layer settings panel
 
 Set as basemap
@@ -59,7 +61,7 @@ When deleting a layer, two cases are possible: if the layer is also in use in an
 Caching
 -------
 
-The contents of both vector and raster layers are cached by the system. This speeds up map loading because it is not necessary to read the data source every time, but only to transfer the files stored on the server. We use two types of cache one is tile-cache when we divide the area into tiles at each zoom level and file-cache (for vector rendering only) when we store the layer contents in one file. In layer settings, the **raster** and **vector tile** display modes use a tile cache, and **vector** stores the layer contents in a file.
+The contents of both vector and raster layers are cached by the system. This speeds up map loading because it is not necessary to read the data source every time, but only to transfer the files stored on the server. We use two types of cache one is tile-cache when we divide the area into tiles at each zoom level and file-cache (for vector rendering only) when we store the layer contents in one file. In layer settings: :ref:`Rendering format<rendering_formats>`, the **Image tiles** and **Vector tiles** modes use a tile cache, and **Vector** stores the layer contents in a file.
 
 When the contents of the data source are updated, these cached files expire because they were created while the previous state was still active. In this case, they must be overwritten. The system cannot keep track of changes to the contents of data sources because, for example, in the Application Database PostGIS database, a table belonging to a layer can be accessed by external software. In such cases we have to take care of flushing the cache.
 

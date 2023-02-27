@@ -71,10 +71,10 @@ Tools:
 #. Open point cloud: Drag and drop the tool on the map to open its location in the point cloud map.
 
    .. figure:: images/viewer_openpointcloud.png
-      :name: 3d objects on map
+      :name: Point cloud
       :align: center
 
-#. Get permalink: Current location on the map can be converted in a link format copied 
+#. Get permalink: Current location on the map can be converted in a link format copied
 
    .. figure:: images/viewer_sharelink.png
       :name: map share link
@@ -101,7 +101,7 @@ Tools:
 
 
    .. figure:: images/viewer_snap.png
-      :name: measurement
+      :name: snap
       :align: center
 
 #. Measuremant tools: Different measuring tools can be used to measure area or distance. Measurements can be taken by selecting the desired tool and clicking on the map. Measurements can be completed by double-clicking on the map.
@@ -114,15 +114,15 @@ Tools:
 
 
    .. figure:: images/viewer_measurement.png
-      :name: measurement
+      :name: measurements
       :align: center
 
    Measuring area and distance
 
 #. Report bad conditions: A report can be created in three category, it can be a road sign, lighting, muncipial or road defect. When a category is selected it can be created when clicked on the map, then a popup is opened where the defect details can be defined. This is an optional feature. When preparing a report, it can be created on an existing layer as an object, or it can be attached to an existing object as a report document.
-   
+
    .. figure:: images/viewer_report.png
-      :name: map scale bar
+      :name: report
       :align: center
 
    For example if a road lighting defect has to be reported:
