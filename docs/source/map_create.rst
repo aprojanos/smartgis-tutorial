@@ -42,6 +42,12 @@ After saving, the map editor window opens, which is divided into two parts: the 
 
     Editing project details
 
+.. figure:: images/basemap_select.png
+    :align: center
+
+    Basemap selection
+
+
 
 Trajectory selection
 --------------------
