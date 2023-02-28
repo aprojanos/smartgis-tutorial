@@ -17,7 +17,7 @@ To create a new map, click on **+** in the bottom right corner of the :ref:`proj
 
 * **Name** - project's name
 * Description - optional description text
-* **Visibility** - access rights to the project: *Everyone can access*, *Logged in users only*, *Selected user groups only*. If you choose to allow certain user groups to see the project, a new line will open where you can select the groups.
+* **Visibility** - access rights to the project: **Everyone can access**, **Logged in users only**, **Selected user groups only**. If you choose to allow certain user groups to see the project, a new line will open where you can select the groups.
 * Projection - fixed EPSG:4326, due to limitations in the software library that displays the map (MapLibre GL JS)
 * **Point cloud projection** - all pointclouds for a project must be in the same projection.
 
