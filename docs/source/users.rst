@@ -17,6 +17,7 @@ The two main function groups "Users" and "Groups" are sorted in tabs.
 
 Users
 -----
+.. _user_panel:
 
 System users can be created, edited, user groups can be attached or detached from users, and users can be activate or deactivate.
 

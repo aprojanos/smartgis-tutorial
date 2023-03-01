@@ -5,3 +5,6 @@ Lookup tables
 
 Lookup tables are ...
 
+
+Lookup widget selection
+-----------------------

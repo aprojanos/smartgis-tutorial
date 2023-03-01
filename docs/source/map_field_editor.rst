@@ -65,7 +65,7 @@ Various widgets are available depending on the data type of the field:
 * **lookup** - select value from a lookup table. See more in section :ref:`Lookup tables<lookups>`
 * **checkbox** - a toggle control that allows you to choose between two values
 * **auto increment** - automatic filling of an integer field
-* **expression** - expression derived from field values by mathematical operations, e.g: **{rotation}  + 90**
+* **expression** - expression derived from field values by mathematical operations, e.g: "`{rotation}  + 90`"
 * **measures** - add a measure widget to the field leading to the point cloud measure and fill the field with the measured value.
 * **coordinates x, y, z** - fill in field value with feature coordinate
 * **geolocate** - during geolocation we look for the nearest element of another layer. To do this, you need to select a data source for the geolocation and a field whose value will be populated into the field.
@@ -76,3 +76,7 @@ Various widgets are available depending on the data type of the field:
 * **read only** - read only field
 * **hidden** - not visible on feature form
 
+.. figure:: images/map_widget_selection.png
+    :align: center
+
+    Widget selection
