@@ -136,3 +136,5 @@ Actions:
         :align: center
 
         More options panel
+
+    .. note:: Only empty groups (users are not attached to the group) can be removed.
