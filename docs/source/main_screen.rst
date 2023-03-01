@@ -6,6 +6,8 @@ The application interface is providing clear and intuitive navigation and access
     :name: application_interface
     :align: center
 
+    Main screen
+
 Toolbar
 -------
 

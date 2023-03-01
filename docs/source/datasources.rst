@@ -85,26 +85,28 @@ To create a new folder, click the **+** icon in the bottom right corner, select 
 .. figure:: images/datasource_addbutton.png
     :align: center
 
-    Create new data source or folder
+    Creating new data source or folder
 
 It is possible to move a data source or folder to another folder using the **MOVE** function. To do this, we first need to select the data source(s) and/or folder(s) to activate the **MOVE** option:
 
 .. figure:: images/datasource_select.png
     :align: center
 
-    Select datasources, folders
+    Selecting datasources, folders
 
 After clicking on the **MOVE** button, we need to select the destination folder and click on button **MOVE HERE**:
 
 .. figure:: images/datasource_move.png
     :align: center
 
-    Move datasource
+    Moving a datasource
 
 Selected datsources can also be deleted by clicking on the Trash icon:
 
 .. figure:: images/datasource_trash.png
     :align: center
+
+|
 
 .. note:: The trash icon is active only if none of the selected datasources has usage on any map.
 
@@ -130,7 +132,8 @@ To create a new folder, click the **+** icon in the bottom right corner and sele
 .. figure:: images/datasource_new.png
     :align: center
 
-    Create new file data source
+    Creating new file data source
+
 .. tip:: In the case of vector data, it is recommended to store them in the application's spatial database rather than as files. To do this, select the **ADD TO APPLICATION'S DATABASE** button.
 
 .. _datasource_edit:
