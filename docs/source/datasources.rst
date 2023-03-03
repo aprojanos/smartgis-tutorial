@@ -119,6 +119,7 @@ To create a new folder, click the **+** icon in the bottom right corner and sele
 
 * **Name** - datasource name
 * Description - optional description
+* Attribution - optional copyright text for XYZ datasources and WMS connections. If the copyright text is available, it will be displayed on maps where the data source is in use.
 * **Type** - importing files or content of a folder
 * **Format** spatial format
 * **Basemap** - whether it should be available as a basemap

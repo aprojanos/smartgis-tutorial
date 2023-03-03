@@ -9,6 +9,7 @@ When creating a new layer, the basic settings and selection of the data source a
 
 * **Name** - layer name
 * **Description** - optional description
+* **Attribution** - optional, when available, it is displayed as copyright text.
 * **Format** - rendering formats:
     * Vector (single file)
     * Vector tiles
@@ -25,7 +26,7 @@ When creating a new layer, the basic settings and selection of the data source a
 
 .. figure:: images/map_layer_params.png
     :align: center
-    :width: 13cm
+    :width: 15cm
 
     Basic settings
 
