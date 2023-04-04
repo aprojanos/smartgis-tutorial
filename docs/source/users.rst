@@ -34,7 +34,7 @@ Actions:
         :align: center
 
         Create new user
-    
+
     * Default data tab:
 
         * Email: Email of the user must be set.
@@ -57,10 +57,12 @@ Actions:
 
         Create new user, groups tab
 
+.. _users_role:
+
     * Role tab:
 
         * Various permissions can be set to the user like:
-            
+
             * Using FTP folders (When turned on data can be uploaded on datasource, data sturcture can modified and the FTP folder can be used)
             * Prohibit access to the admin pages (When turned on the administration menu and its submenus cant be reached)
             * Export data (When turned on data can be exported from the system)
@@ -127,7 +129,7 @@ Actions:
 
     .. figure:: images/users_newgroup.png
         :align: center
-        
+
         New group popup
 
 * Edit or delete group: Group can be edited or removed, when at the end of the row "more option" and "edit" or "remove" button is pressed. To close the panel press the "Close" button.

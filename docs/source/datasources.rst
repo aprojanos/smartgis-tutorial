@@ -148,11 +148,13 @@ It is possible to subsequently change the settings of data sources and perform o
 * **Delete** - deletes a data source
 * **Add to Application's database** - datasource will be available in Application's spatial database as a PostGIS table
 * **Add to project** - add data source to a project by creating a new layer
+* **Download** - download datasource files in a ZIP archive. This feature is available only to users with export permissions set in the :ref:`Team Management<users_role>` section.
 
 .. figure:: images/datasource_menu.png
     :align: center
+    :width: 15cm
 
-    Datsource commands
+    Datasource commands
 
 If you want to add the data source to a project, you need to select the project and target folder:
 
@@ -224,6 +226,7 @@ In order to be able to use a WMS server in SmartGIS, the access parameters need 
 
     Adding a WMS service
 
+.. tip:: It is possible to enter copyright text in the Attribution field. This will appear on the map when a layer of the WMS service becomes visible.
 
 External map services
 ---------------------
@@ -233,5 +236,5 @@ We can use external services to access map tiles. Then the user's browser as a c
 Supported services
 
 * XYZ compatible tile services
-* Bing maps
+* Bing maps imagery
 

@@ -19,10 +19,6 @@ By organizing map layers into folders, users can turn multiple layers on and off
     Folders
 
 
-.. note:: Currently there is no option in SmartGIS to create subfolders within a folder.
-
-
-
 Create folders
 --------------
 

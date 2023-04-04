@@ -59,7 +59,9 @@ Tools:
       :align: center
 
       Search results
+
 |
+
 #. Zoom in and out: "+" zooms in and the "-" button zooms out the map.
 #. Reset map orientation: If the map is previously rotated (press and hold the right mouse button), its orientation can be reset to the default north-facing position.
 #. 3D view: This function is used with a 3D layer. First, check a 3D object layer, and activate the tool.
@@ -69,7 +71,9 @@ Tools:
       :align: center
 
       3D view
+
 |
+
 #. Find my location: Map will be focused on the user's aproximate geolocation.
 #. Zoom to extent: Map zoom level and position will be reset to its default values.
 #. Open point cloud: Drag and drop the tool on the map to open its location in the point cloud map.
@@ -79,7 +83,9 @@ Tools:
       :align: center
 
       Dragging eye to point cloud coverage area
+
 |
+
 #. Get permalink: Current location on the map can be converted in a link format copied
 
    .. figure:: images/viewer_sharelink.png
@@ -88,7 +94,9 @@ Tools:
       :width: 15cm
 
       Permalink
+
 |
+
 #. Basemap selector: The current map type can be changed.
 #. 2D digitizing tools: These tools are available when the active layer is set. Objects on the map can be created, edited or its properties changed.
 
@@ -114,7 +122,9 @@ Tools:
       :align: center
 
       The snap tool in action
+
 |
+
 #. Measuremant tools: Different measuring tools can be used to measure area or distance. Measurements can be taken by selecting the desired tool and clicking on the map. Measurements can be completed by double-clicking on the map.
 
    * Measure distance: Distance is measured between multiple points, minimum of two.
@@ -129,7 +139,9 @@ Tools:
       :align: center
 
       Measuring area and distance
+
 |
+
 #. Report bad conditions: A report can be created in three category, it can be a road sign, lighting, muncipial or road defect. When a category is selected it can be created when clicked on the map, then a popup is opened where the defect details can be defined. This is an optional feature. When preparing a report, it can be created on an existing layer as an object, or it can be attached to an existing object as a report document.
 
    .. figure:: images/viewer_report.png
@@ -137,7 +149,9 @@ Tools:
       :align: center
 
       Fault reports
+
 |
+
    For example if a road lighting defect has to be reported:
 
       * First the "lighting" tool must be selected under "report bad conditions".
@@ -212,7 +226,9 @@ At the bottom of maplegend are the export and reload layers functions
 Export data
 -----------
 
-Export of layered data in various GIS and tabbed formats is possible:
+You can populate layers marked as editable in the application, using the digitizing tools and forms. These layers can be exported from the database.
+
+The layers can be exported in GIS, CAD and spreadsheet formats:
 
 * .shp - ESRI ShapeFile
 * .gdb - File Geodatabase (GDB)
@@ -228,7 +244,7 @@ If point clouds are available, it is possible to limit the export to the area co
 
 .. note:: Export is available only for logged in users. Only those layers are exported for which the user has export permission. The permissions can be set by the project owner or an administrator on the :ref:`map administration pages<map_permssions>`.
 
-Since we can export a lot of large layers, exporting can take some time. To avoid waiting for the result, you can choose the notification option. In this case, we can continue working and receive a notification email with a download link after the export is complete.
+Since we can export a lot of large layers, exporting can take some time. To avoid waiting for the result, you can choose the notification option. In this case, you can continue working and receive a notification email with a download link after the export is complete.
 
 .. figure:: images/layer_export.png
    :align: center
